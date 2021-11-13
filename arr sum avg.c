@@ -5,7 +5,6 @@ int main()
 {
     int a[N], i, sum = 0;
     float avg;
-
     printf("Enter %d integer numbers\n", N);
     for(i = 0; i < N; i++)
     {
