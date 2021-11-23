@@ -9,4 +9,5 @@ int main ()
 	}
 	printf("%d",a[i]);
 	printf("\n");
+	
 }
