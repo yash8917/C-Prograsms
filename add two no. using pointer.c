@@ -1,5 +1,6 @@
 //WAP to add to no. by using pointer..
 #include<stdio.h>
+
 int main()
 {
  	int a,b,*pa,*pb,c,*pc;
