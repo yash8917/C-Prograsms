@@ -3,5 +3,4 @@ int main()
 {
 	char a[10]="hello";
 	printf("%s",a);
-	
 }
